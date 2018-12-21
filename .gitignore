@@ -1,0 +1,8 @@
+#IGNORE NODE MODULES
+/node_modules
+
+#IGNORE WEBPACK BUNDLES
+/client/public/hca_nurses_bundle.js
+
+#INGORE ESLINT CONFIGURATION DETAILS
+.eslintrc.js
