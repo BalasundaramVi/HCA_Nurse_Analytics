@@ -11,8 +11,10 @@ class App extends React.Component {
   render() {
     return (
       <div className="app">
-        <div className="nav_bar">Hello World</div>
-        <div className="body" />
+        <div className="nav_bar">
+          <h1 className="title">HCA Nurse Analytics</h1>
+        </div>
+        <div className="content" />
       </div>
     );
   }

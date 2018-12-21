@@ -1,0 +1,25 @@
+body {
+  background-color: wheat;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.nav_bar {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 25%;
+  max-width: 250px;
+  background-color: mediumaquamarine;
+}
+
+.content {
+  width: 100%;
+  background-color: wheat;
+}
+
+.title {
+  text-align: center;
+  text-shadow: 1px 1px black;
+  color: white;
+}
